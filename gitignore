@@ -3,3 +3,7 @@
 
 #aber git1
 !git1.txt
+
+controller/
+
+logs/\*_/_logs
